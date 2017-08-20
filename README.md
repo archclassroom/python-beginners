@@ -1,4 +1,4 @@
-﻿# Python Basic
+# Python Basic
 
 I taught about 100 hours Python from scratch both people experienced with IT or another prog. language and people who just knew some basic office stuff.
 
@@ -12,7 +12,7 @@ Before the actual course, I strongly recommend to try to get familiar with the l
 
 1. Intro; Crash Course through all basics of http://learnpython.org/
 2. First useful program, having a problem, solving it, deploying the solution
-3. Practice, Practice, Practice! 
+3. Practice, Practice, Practice!
 4. More theory, useful tips, delving deeper in totopic X (Where X is whatever problem students will have)
 5. Where to go next, final questions, summary
 
