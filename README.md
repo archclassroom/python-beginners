@@ -1,35 +1,62 @@
 # Python Basic
 
-This year I managed to teach for about 100 hours Python from scratch both people experienced with IT or another prog. language and people who just knew some basic office stuff.
-
 **This course is for:** Complete beginners in programming and people who know some basics but want to learn some tricks and more about standard libraries.
 
-**This course is not for:** Experienced python programmers or anyone who knows about everything learnpython.org offers
+**This course is not for:** Experienced python programmers or anyone who knows about everything learnpython.org offers.
 
 Before the actual course, I strongly recommend to try to get familiar with the language using those tutorials in links below or watching videos and trying out some things on your own.
 
+# About the lecturer
+
+Pulec is:
+* Using Python for 6 years, last year professional with attending few lectures, rest is self tought and experience.
+* Education: High School of Electronics (bad grades) && Unfinished Organic Agriculture
+* Using Arch Linux for 6 years and working in Red Hat
+* Likes: Open Source anything (Software, Games, Blueprints), Gardens inspired by Nature & wine
+
 ## Contents|Plan of education
 
-1. Intro; Crash Course through all basics of http://learnpython.org/
-2. First useful program, having a problem, solving it, deploying the solution
-3. Practice, Practice, Practice!
-4. More theory, useful tips, delving deeper into topic X (Where X is whatever problem students will have)
-5. Where to go next, final questions, summary
+1. Intro presentation; Crash Course through all basics of http://learnpython.org/ with few examples in ipython notebook
+2. First useful program, having a problem, solving it, using the solution
+3. Practice, Practice, Practice..tbd!
+4. Time for a project of yours.
+5. More theory, useful tips, delving deeper into topic X (Where X is whatever problem students will have)
+6. Where to go next, final questions, summary
+7.  tbd..packaging
+8. tbd..sumary
 
 
 ## Install Python
-* Arch : # pacman -S python3
+* Arch : # pacman -S python3 ipython
 * Linux && Windows : [Video tutorial](https://www.youtube.com/watch?v=YYXdXT2l-Gg&t=34s&list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7&index=1)
 * OSX : [python-ugide-pt-br.readthedocs.io](http://python-guide-pt-br.readthedocs.io/en/latest/starting/install3/osx/)
 
 ## Prepare IPython Notebook
-Virtualenv (Arch: extra/python-virtualenv) is recommended, create one in any directory by running:
+
+Ideal way to share code is via Jupyter Notebooks, the ipynb files in this repo are what we went/will go through in YouTube streams.
+
+It can run code snippets or whole programs in organized form and allows to make nice documents with Markdown notes inside.
+
+Making graphs and other things which requires some 'web magic' is easy in these notebooks compared to regular shell.
+
+[Jupyter](https://wiki.archlinux.org/index.php/Jupyter)@archwiki:
+> [Jupyter](http://jupyter.org/) is a project which produces browser-based interactive environments for programming, mathematics, and data science. It supports a number of languages via plugins ("kernels"), such as Python, Ruby, Haskell, R, Scala and Julia.
+> Jupyter Notebook is the traditional and most stable application. [JupyterLab](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906) has a new interface and is more suitable for working with larger projects consisting of multiple files. JupyterLab is in beta as of February 2018.
+
+### Sane way
+On Arch just install jupyter and you can run jupyter notebook to start the server and browse ipynbs in this repo.
+
+### Virtualenv way
+
+Other way is virtualenv (Arch: extra/python-virtualenv) which will probably work on most systems and might be interesting to learn if you haven't done this before
+
+Create one in any directory by running:
 
 ```
 virtualenv edu
 ```
 
-where edu is the folder which will be created. Activate it by running source bin/activate and then do
+where edu is the folder which will be created. Activate it by running source edu/bin/activate and then do
 
 ```
 pip install jupyter
@@ -47,12 +74,14 @@ jupyter notebook
 
 And open one of the files with ipynb extensions. 
 
-## Start using it:
+## Start using Python:
+Just dive in, you can read about it later
 * Guided tutorial - [learnpython.org](http://learnpython.org/) - no installation needed, ipython in browser
 * [repl.it/languages/python3](https://repl.it/languages/python3) - write code, run it, share it
 * [pythonanywhere.com](https://www.pythonanywhere.com/try-ipython/) - ipython terminal online
 
 ## Read something:
+Now when you have some idea how its used try reading something
 * [Official tutorial](https://docs.python.org/3.6/tutorial/)
 * [Myths about Python](https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/)
 * [Picking an Interpreter The State of Python (3 & 2) and Cpython, Jython, etc...](http://docs.python-guide.org/en/latest/starting/which-python/)
@@ -63,6 +92,7 @@ And open one of the files with ipynb extensions.
 	* [cz](http://diveintopython3.py.cz/index.html)
 * Book: [Porting from python2 to python3](http://python3porting.com/pdfs/SupportingPython3-screen-1.0-latest.pdf)
 * Lots of free books avaliable
+* TODO do links
 
 
 ## Watch Videos:
