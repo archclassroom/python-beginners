@@ -6,6 +6,10 @@
 
 Before the actual course, I strongly recommend to try to get familiar with the language using those tutorials in links below or watching videos and trying out some things on your own.
 
+# Videos
+18/06/27 - [[Arch Classroom] Python for Beginners #1](https://www.youtube.com/watch?v=z3GJpjyCqyQ) (timestamps WIP, subtitles correction=0%)
+18/07/04 - [[Arch Classroom] Python for Beginners #2]() (timestamps WIP, subtitles correction=0%)
+
 # About the lecturer
 
 Pulec is:
@@ -87,12 +91,16 @@ Now when you have some idea how its used try reading something
 * [Picking an Interpreter The State of Python (3 & 2) and Cpython, Jython, etc...](http://docs.python-guide.org/en/latest/starting/which-python/)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 
-* Book: Dive Into Python 3
+### Books:
+* Dive Into Python 3
 	* [eng](http://www.diveintopython3.net/)
 	* [cz](http://diveintopython3.py.cz/index.html)
-* Book: [Porting from python2 to python3](http://python3porting.com/pdfs/SupportingPython3-screen-1.0-latest.pdf)
+* [Porting from python2 to python3](http://python3porting.com/pdfs/SupportingPython3-screen-1.0-latest.pdf)
+* [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html#toc)
 * Lots of free books avaliable
-* TODO do links
+	* [Directory of Python books - Junnplus/awesome-python-books](https://github.com/Junnplus/awesome-python-books)
+	* [wiki.python.org](https://wiki.python.org/moin/PythonBooks)
+	* [Books search at reddit.com/r/Python](https://www.reddit.com/r/Python/search?q=books&restrict_sr=1) 
 
 
 ## Watch Videos:
@@ -114,7 +122,7 @@ Print out some message for each situation and try all different test cases (firs
 
 ## Links
 ### Communities:
-* [reddit.com/r/python](https://www.reddit.com/r/python)
+* [reddit.com/r/Python](https://www.reddit.com/r/Python)
 * [reddit.com/r/learnpython](https://www.reddit.com/r/learnpython/)
 
 Corey's beginners tutorial was recently posted on [reddit.com/r/learnprogramming/comments/6bxdut](https://www.reddit.com/r/learnprogramming/comments/6bxdut/python_for_beginners_complete_series/)
@@ -144,3 +152,6 @@ Corey's beginners tutorial was recently posted on [reddit.com/r/learnprogramming
 
 ### Web
 * [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+### Electronics
+* [czech article root.cz about circuits](https://www.root.cz/clanky/python-a-simulacia-elektronickych-obvodov/
