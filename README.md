@@ -6,9 +6,28 @@
 
 Before the actual course, I strongly recommend to try to get familiar with the language using those tutorials in links below or watching videos and trying out some things on your own.
 
+**Curse is currently running on weekly basis usually 07:00 UTC Wednesdays**
+but due to the summer time this may vary 
+
+__#archlinux-classroom__ on Freenode provides always latest news in the topic
+
+there will be at least 10 sessions, covering stuff (I will later elaborate in points) which should be enough to build something to lean to in your path to learn whatever else requiring some Python knowhow. If we raise enough demand, there could be for example a session about using packager X Y, session about cryptography, etc. But since we have internet and we record the lectures there are many avaliable tutorials online free or paid as you can see bellow.
+
+One of the sessions I can offer might be:
+* file operations, working with a lot of zip files, file scanning, etc.
+* UnrealEnginePython plugin for Unreal Engine 4 ideally after passing through the [The Unreal Engine Developer Course - Learn C++ & Make Games @Udemy](https://www.udemy.com/unrealcourse/?start=0)
+* anything else that will be requested and I have enough understanding about it that I can explain it
+
 # Videos
-18/06/27 - [[Arch Classroom] Python for Beginners #1](https://www.youtube.com/watch?v=z3GJpjyCqyQ) (timestamps WIP, subtitles correction=0%)
-18/07/04 - [[Arch Classroom] Python for Beginners #2]() (timestamps WIP, subtitles correction=0%)
+* 18/06/27 - [[Arch Classroom] Python for Beginners #1](https://www.youtube.com/watch?v=z3GJpjyCqyQ) (timestamps WIP, subtitles correction=0%)
+* 18/07/04 - [[Arch Classroom] Python for Beginners #2 - More Loops, Functions and Classes](https://youtu.be/-vPEzHQHT1k) (timestamps WIP, subtitles correction=0%)
+* 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules and main()]() (timestamps WIP, subtitles correction=0%)
+* 18/07/18 - [[Arch Classroom] Python for Beginners #4 - .* ]() (timestamps WIP, subtitles correction=0%)
+* 18/07/26 - [[Arch Classroom] Python for Beginners #5 - .* ]() (timestamps WIP, subtitles correction=0%)
+* 18/08/01 - [[Arch Classroom] Python for Beginners #6 - .* ]() (timestamps WIP, subtitles correction=0%)
+* ..
+* ..
+* 18/09/01 - [[Arch Classroom] Python for Beginners #10 - .* ]() (timestamps WIP, subtitles correction=0%)
 
 # About the lecturer
 
@@ -154,4 +173,4 @@ Corey's beginners tutorial was recently posted on [reddit.com/r/learnprogramming
 * [Flask Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### Electronics
-* [czech article root.cz about circuits](https://www.root.cz/clanky/python-a-simulacia-elektronickych-obvodov/
+* [czech article about electronic circuits simulation @root.cz](https://www.root.cz/clanky/python-a-simulacia-elektronickych-obvodov/)
