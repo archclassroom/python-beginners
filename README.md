@@ -6,7 +6,7 @@
 
 Before the actual course, I strongly recommend to try to get familiar with the language using those tutorials in links below or watching videos and trying out some things on your own.
 
-**Curse is currently running on weekly basis usually 07:00 UTC Wednesdays**
+**Course is currently running on weekly basis usually 07:00 UTC Wednesdays**
 but due to the summer time this may vary 
 
 __#archlinux-classroom__ on Freenode provides always latest news in the topic
