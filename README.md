@@ -21,8 +21,8 @@ One of the sessions I can offer might be:
 # Videos
 * 18/06/27 - [[Arch Classroom] Python for Beginners #1](https://www.youtube.com/watch?v=z3GJpjyCqyQ) (timestamps WIP, subtitles correction=0%)
 * 18/07/04 - [[Arch Classroom] Python for Beginners #2 - More Loops, Functions and Classes](https://youtu.be/-vPEzHQHT1k) (timestamps WIP, subtitles correction=0%)
-* 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules and main()]() (timestamps WIP, subtitles correction=0%)
-* 18/07/18 - [[Arch Classroom] Python for Beginners #4 - .* ]() (timestamps WIP, subtitles correction=0%)
+* 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules, virtualenvs and main() in main.py](https://youtu.be/G6CC7umEYk0) (timestamps WIP, subtitles correction=0%)
+* 18/07/18 - [[Arch Classroom] Python for Beginners #4 - Learning by writing some simple programs ]() (timestamps WIP, subtitles correction=0%)
 * 18/07/26 - [[Arch Classroom] Python for Beginners #5 - .* ]() (timestamps WIP, subtitles correction=0%)
 * 18/08/01 - [[Arch Classroom] Python for Beginners #6 - .* ]() (timestamps WIP, subtitles correction=0%)
 * ..
