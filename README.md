@@ -22,12 +22,20 @@ One of the sessions I can offer might be:
 * 18/06/27 - [[Arch Classroom] Python for Beginners #1](https://www.youtube.com/watch?v=z3GJpjyCqyQ) (timestamps WIP, subtitles correction=0%)
 * 18/07/04 - [[Arch Classroom] Python for Beginners #2 - More Loops, Functions and Classes](https://youtu.be/-vPEzHQHT1k) (timestamps WIP, subtitles correction=0%)
 * 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules, virtualenvs and main() in main.py](https://youtu.be/G6CC7umEYk0) (timestamps WIP, subtitles correction=0%)
-* 18/07/18 - [[Arch Classroom] Python for Beginners #4 - Learning by writing some simple programs ]() (timestamps WIP, subtitles correction=0%)
-* 18/07/26 - [[Arch Classroom] Python for Beginners #5 - .* ]() (timestamps WIP, subtitles correction=0%)
+* 18/07/18 - [[Arch Classroom] Python for Beginners #4 - Functions \*args \*\*kwars explained + future plan and some examples](https://youtu.be/7zXRYuIiD84) (timestamps WIP, subtitles correction=0%)
+* 18/07/27 - [[Arch Classroom] Python for Beginners #5 - Learning by writing some simple programs]() (timestamps WIP, subtitles correction=0%)
 * 18/08/01 - [[Arch Classroom] Python for Beginners #6 - .* ]() (timestamps WIP, subtitles correction=0%)
 * ..
 * ..
 * 18/09/01 - [[Arch Classroom] Python for Beginners #10 - .* ]() (timestamps WIP, subtitles correction=0%)
+
+# Simple programs plan (feel free to do it advance)
+* list files in /var/cache/pacman/pkg (downloaded packages) and
+	* have dictionary with keys: name, versions (information just from filename)
+	* some pkginfo using some archive modules (maybe pacman python module?)
+
+# More difficult projects
+* using twitter, google, etc. as a source for searching about topic X and generating some results
 
 # About the lecturer
 
