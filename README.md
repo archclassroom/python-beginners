@@ -25,7 +25,7 @@ Whole [playlist](https://www.youtube.com/playlist?list=PLkFpxbPd7iePXaN4UjZociAh
 * 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules, virtualenvs and main() in main.py](https://youtu.be/G6CC7umEYk0) (timestamps WIP, subtitles correction=0%)
 * 18/07/18 - [[Arch Classroom] Python for Beginners #4 - Functions \*args \*\*kwars explained + future plan and some examples](https://youtu.be/7zXRYuIiD84) (timestamps WIP, subtitles correction=0%)
 * 18/07/27 - [[Arch Classroom] Python for Beginners #5.1 - A IDE recap and simple program for listing files with stats](https://www.youtube.com/watch?v=REZ3v7Z1k_g) and [#5.2](https://www.youtube.com/watch?v=UyrVdzAqvGM) (timestamps WIP, subtitles correction=0%)
-* 18/08/03 - [[Arch Classroom] Python for Beginners #6 - Timer script, regex in file_stater, short info about Flask and SQLAlchemy]() (timestamps WIP, subtitles correction=0%)
+* 18/08/03 - [[Arch Classroom] Python for Beginners #6 - Timer script, regex in file_stater, short info about Flask and SQLAlchemy](https://youtu.be/DngGLz7OA9o) (timestamps WIP, subtitles correction=0%)
 * 18/08/15 - [[Arch Classroom] Python for Beginners #7 - Homeworks? Web Project? etc. ]() (timestamps WIP, subtitles correction=0%)
 * ..
 * 18/09/01 - [[Arch Classroom] Python for Beginners #10 - .* ]() (timestamps WIP, subtitles correction=0%)
@@ -39,6 +39,11 @@ Whole [playlist](https://www.youtube.com/playlist?list=PLkFpxbPd7iePXaN4UjZociAh
 * remaining class timer was done session #6
 * visualize the result.json created by file_stater.py, either by some plot or web app clicker
 * no other simple project in plan, except pulec's which haven't been fully published
+
+# Optional homeworks
+* Easy: Make scripts/remaining_class_time.py print in one line, overwriting the old (no need for sys module)
+* Hard: Make multiple patterns or string operation logic in scripts/file_stater_arch.py to match name and ver of all possible Arch packages
+	* think of some cool key to 'analyze' the packages with, try to think of something that might be usefull for others or just for you
 
 # More difficult projects
 * using twitter, google, etc. as a source for searching about topic X and generating some results and rendering them nicely
