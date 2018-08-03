@@ -25,19 +25,23 @@ Whole [playlist](https://www.youtube.com/playlist?list=PLkFpxbPd7iePXaN4UjZociAh
 * 18/07/13 - [[Arch Classroom] Python for Beginners #3 - Imports Modules, virtualenvs and main() in main.py](https://youtu.be/G6CC7umEYk0) (timestamps WIP, subtitles correction=0%)
 * 18/07/18 - [[Arch Classroom] Python for Beginners #4 - Functions \*args \*\*kwars explained + future plan and some examples](https://youtu.be/7zXRYuIiD84) (timestamps WIP, subtitles correction=0%)
 * 18/07/27 - [[Arch Classroom] Python for Beginners #5.1 - A IDE recap and simple program for listing files with stats](https://www.youtube.com/watch?v=REZ3v7Z1k_g) and [#5.2](https://www.youtube.com/watch?v=UyrVdzAqvGM) (timestamps WIP, subtitles correction=0%)
-* 18/08/03 - [[Arch Classroom] Python for Beginners #6 - .* ]() (timestamps WIP, subtitles correction=0%)
-* ..
+* 18/08/03 - [[Arch Classroom] Python for Beginners #6 - Timer script, regex in file_stater, short info about Flask and SQLAlchemy]() (timestamps WIP, subtitles correction=0%)
+* 18/08/15 - [[Arch Classroom] Python for Beginners #7 - Homeworks? Web Project? etc. ]() (timestamps WIP, subtitles correction=0%)
 * ..
 * 18/09/01 - [[Arch Classroom] Python for Beginners #10 - .* ]() (timestamps WIP, subtitles correction=0%)
 
 # Simple programs plan (feel free to do it advance)
 * list files in /var/cache/pacman/pkg (downloaded packages) and
 	* have dictionary with keys: name, versions (information just from filename)
+		* in #6 we used re module ([regular expressions](https://en.wikipedia.org/wiki/Regular_expression)) and found out its not so simple to make pattern applicable to all pkg names
 	* some pkginfo using some archive modules (maybe pacman python module?)
-	* **partially done in session #5**, in #6 we gona reuse it and learn re module ([regular expressions](https://en.wikipedia.org/wiki/Regular_expression))
+	* that was partially done in session #5
+* remaining class timer was done session #6
+* visualize the result.json created by file_stater.py, either by some plot or web app clicker
+* no other simple project in plan, except pulec's which haven't been fully published
 
 # More difficult projects
-* using twitter, google, etc. as a source for searching about topic X and generating some results
+* using twitter, google, etc. as a source for searching about topic X and generating some results and rendering them nicely
 
 # About the lecturer
 
